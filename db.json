@@ -1,0 +1,495 @@
+{
+  "hotels": [
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/19/60/6d/messier-53-hotel-yerevan.jpg",
+      "title": "Messier 53 Hotel Yerevan",
+      "price": 42783,
+      "rating": 5,
+      "url": "/Hotel_Review-g293932-d12311601-Reviews-Messier_53_Hotel_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/1d/f1/70/reception.jpg",
+      "title": "14th Floor Hotel",
+      "price": 32917,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d2038096-Reviews-14th_Floor_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/df/82/fc/north-avenue-hotel.jpg",
+      "title": "North Avenue Hotel",
+      "price": 50000,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d4619506-Reviews-North_Avenue_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/85/ba/c4/armenia-marriott-hotel.jpg",
+      "title": "Armenia Marriott Hotel Yerevan",
+      "price": 60350,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d299732-Reviews-Armenia_Marriott_Hotel_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/55/1f/a3/grand-hotel-yerevan.jpg",
+      "title": "Grand Hotel Yerevan",
+      "price": 50198,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d585269-Reviews-Grand_Hotel_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/76/ac/54/lobby.jpg",
+      "title": "Aviatrans",
+      "price": 41667,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d308337-Reviews-Aviatrans-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/48/78/executive-room.jpg",
+      "title": "Best Western Congress Hotel",
+      "price": 38250,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d308336-Reviews-Best_Western_Congress_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/e0/74/cf/caption.jpg",
+      "title": "Bass Boutique Hotel",
+      "price": 25675,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d308335-Reviews-Bass_Boutique_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/97/17/b9/presidential-suite.jpg",
+      "title": "Hotel National",
+      "price": 60715,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d3873711-Reviews-Hotel_National-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/af/be/0a/standard-king-room.jpg",
+      "title": "Hyatt Place Yerevan",
+      "price": 49453,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d5281493-Reviews-Hyatt_Place_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/04/93/8c/9b/imperial-palace-hotel.jpg",
+      "title": "Imperial Palace Hotel",
+      "price": 42553,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d4886384-Reviews-Imperial_Palace_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ab/d5/d4/deluxe-room.jpg",
+      "title": "Republica Hotel Yerevan",
+      "price": 44727,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d6731098-Reviews-Republica_Hotel_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/80/55/09/restaurant.jpg",
+      "title": "Best Eastern Hotel Metropol",
+      "price": 28658,
+      "rating": 3.5,
+      "url": "/Hotel_Review-g293932-d308339-Reviews-Best_Eastern_Hotel_Metropol-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/8f/de/bb/armenian-royal-palace.jpg",
+      "title": "Armenian Royal Palace Hotel",
+      "price": 28332,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d1200811-Reviews-Armenian_Royal_Palace_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/9f/0f/9d/europe-hotel.jpg",
+      "title": "Europe Hotel",
+      "price": 30396,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d1447581-Reviews-Europe_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/ef/6b/08/lobby.jpg",
+      "title": "Ani Plaza Hotel",
+      "price": 38483,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d308331-Reviews-Ani_Plaza_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/63/b2/1b/diamond-house-hotel.jpg",
+      "title": "Diamond House Hotel Yerevan",
+      "price": 40432,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d6839245-Reviews-Diamond_House_Hotel_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/04/67/ef/3a/tufenkian-historic-yerevan.jpg",
+      "title": "Tufenkian Historic Yerevan Hotel",
+      "price": 36070,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d3634113-Reviews-Tufenkian_Historic_Yerevan_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/02/5f/3b/1a/front-appearance.jpg",
+      "title": "Olympia Hotel",
+      "price": 22313,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d308340-Reviews-Olympia_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/04/ce/3f/view-to-the-resort.jpg",
+      "title": "Panorama Yerevan Resort",
+      "price": 27039,
+      "rating": 5,
+      "url": "/Hotel_Review-g293932-d5975411-Reviews-Panorama_Yerevan_Resort-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/b1/de/c8/my-hotel-yerevan.jpg",
+      "title": "My Hotel Yerevan",
+      "price": 26522,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d6702577-Reviews-My_Hotel_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/e1/b6/4a/two-room-suite-queen.jpg",
+      "title": "Hotel Meg",
+      "price": 20795,
+      "rating": 5,
+      "url": "/Hotel_Review-g293932-d1232920-Reviews-Hotel_Meg-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/2f/31/81/paris-hotel.jpg",
+      "title": "Paris Hotel",
+      "price": 43793,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d7004445-Reviews-Paris_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/b3/dd/b8/cross-resort.jpg",
+      "title": "Cross Resort Hotel",
+      "price": 14550,
+      "rating": 5,
+      "url": "/Hotel_Review-g293932-d6279855-Reviews-Cross_Resort_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/08/a0/d1/sd.jpg",
+      "title": "SD Hotel",
+      "price": 17444,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d3545290-Reviews-SD_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/22/ab/35/exterior.jpg",
+      "title": "Deluxe Hotel Yerevan",
+      "price": 16448,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d1479879-Reviews-Deluxe_Hotel_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/19/e3/f0/areg-hotel.jpg",
+      "title": "Areg Hotel",
+      "price": 22875,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d1137158-Reviews-Areg_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/bc/9f/d8/silachi-hotel.jpg",
+      "title": "Silachi Hotel",
+      "price": 25095,
+      "rating": 3.5,
+      "url": "/Hotel_Review-g293932-d2442929-Reviews-Silachi_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/4b/32/26/getlstd-property-photo.jpg",
+      "title": "Royal Plaza Hotel",
+      "price": 34000,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d5085060-Reviews-Royal_Plaza_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/6c/8c/80/victoria-vachaganovna.jpg",
+      "title": "Nairi Hotel",
+      "price": 24607,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d622382-Reviews-Nairi_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/4a/64/a8/caption.jpg",
+      "title": "Hotel Regineh",
+      "price": 23125,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d1237108-Reviews-Hotel_Regineh-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3b/f0/2d/lobby.jpg",
+      "title": "DoubleTree by Hilton Hotel Yerevan City Centre",
+      "price": 39216,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d8029079-Reviews-DoubleTree_by_Hilton_Hotel_Yerevan_City_Centre-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/bd/c3/69/minotel-barsam-suites.jpg",
+      "title": "Minotel Barsam Suites",
+      "price": 34403,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d7148555-Reviews-Minotel_Barsam_Suites-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/bc/a8/17/studio-suite.jpg",
+      "title": "Nova Hotel",
+      "price": 50473,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d10100256-Reviews-Nova_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/93/88/de/opera-suite-hotel.jpg",
+      "title": "Opera Suite Hotel",
+      "price": 45049,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d8280822-Reviews-Opera_Suite_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/53/68/66/getlstd-property-photo.jpg",
+      "title": "Nor Yerevan",
+      "price": 25825,
+      "rating": 2,
+      "url": "/Hotel_Review-g293932-d12455767-Reviews-Nor_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/25/fc/b8/caption.jpg",
+      "title": "Latar Hotel",
+      "price": 60964,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d4176271-Reviews-Latar_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/a9/72/6d/caucasus-hotel.jpg",
+      "title": "Caucasus Hotel",
+      "price": 20235,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d6885249-Reviews-Caucasus_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/e8/4f/6b/valensia-hotel.jpg",
+      "title": "Valensia Hotel",
+      "price": 14394,
+      "rating": 3,
+      "url": "/Hotel_Review-g293932-d308343-Reviews-Valensia_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/e2/9a/07/park-hotel-yerevan.jpg",
+      "title": "City Centre Hotel by Picnic",
+      "price": 20795,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d7786379-Reviews-City_Centre_Hotel_by_Picnic-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/b0/97/2d/venezia-palazzo.jpg",
+      "title": "Venezia Palazzo",
+      "price": 33333,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d6908328-Reviews-Venezia_Palazzo-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/54/77/d9/ibis-yerevan-center.jpg",
+      "title": "Ibis Yerevan Center",
+      "price": 21782,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d11665411-Reviews-Ibis_Yerevan_Center-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/7e/2d/2a/the-view-from-panoramic.jpg",
+      "title": "Areve Residence Boutique Hotel",
+      "price": 20307,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d12135475-Reviews-Areve_Residence_Boutique_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/c9/7d/50/sochi-palace.jpg",
+      "title": "Sochi Palace Hotel",
+      "price": 14394,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d4163416-Reviews-Sochi_Palace_Hotel-Yerevan.html"
+    },
+    {
+      "title": "Motel Eforea",
+      "price": 29167,
+      "rating": 0,
+      "url": "/Hotel_Review-g293932-d9463268-Reviews-Motel_Eforea-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/f5/67/56/double-deluxe.jpg",
+      "title": "Daniel Boutique Hotel",
+      "price": 23362,
+      "rating": 5,
+      "url": "/Hotel_Review-g293932-d12385925-Reviews-Daniel_Boutique_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/19/60/6d/messier-53-hotel-yerevan.jpg",
+      "title": "Messier 53 Hotel Yerevan",
+      "price": 42783,
+      "rating": 5,
+      "url": "/Hotel_Review-g293932-d12311601-Reviews-Messier_53_Hotel_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/f5/87/41/caption.jpg",
+      "title": "Hotel Artsakh",
+      "price": 33374,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d7185856-Reviews-Hotel_Artsakh-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/56/45/06/suite.jpg",
+      "title": "Radisson Blu Hotel, Yerevan",
+      "price": 46724,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d10518419-Reviews-Radisson_Blu_Hotel_Yerevan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/97/dd/59/ararat-hotel.jpg",
+      "title": "Ararat hotel",
+      "price": 37183,
+      "rating": 3.5,
+      "url": "/Hotel_Review-g293932-d308332-Reviews-Ararat_hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/03/07/b5/caption.jpg",
+      "title": "Shirak Hotel",
+      "price": 25000,
+      "rating": 3.5,
+      "url": "/Hotel_Review-g293932-d308341-Reviews-Shirak_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/69/f4/54/family-room-9.jpg",
+      "title": "Mia Casa Hotel",
+      "price": 18923,
+      "rating": 5,
+      "url": "/Hotel_Review-g293932-d11643507-Reviews-Mia_Casa_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/ac/75/e9/getlstd-property-photo.jpg",
+      "title": "Amber",
+      "price": 18333,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d7134404-Reviews-Amber-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/a8/96/78/everything-is-underground.jpg",
+      "title": "Motel Acapulco",
+      "price": 8750,
+      "rating": 1.5,
+      "url": "/Hotel_Review-g293932-d8284624-Reviews-Motel_Acapulco-Yerevan.html"
+    },
+    {
+      "title": "Venice Hotel",
+      "price": 26000,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d9799421-Reviews-Venice_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/ed/67/98/city-hotel.jpg",
+      "title": "City Hotel by Picnic",
+      "price": 18551,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d8400769-Reviews-City_Hotel_by_Picnic-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/df/32/0f/hrazdan-hotel.jpg",
+      "title": "Hrazdan Hotel",
+      "price": 37500,
+      "rating": 3.5,
+      "url": "/Hotel_Review-g293932-d308338-Reviews-Hrazdan_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/01/c7/aa/8d/hotel-view.jpg",
+      "title": "Arthurs Aghveran Resort",
+      "price": 24167,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d817383-Reviews-Arthurs_Aghveran_Resort-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/84/41/00/pool.jpg",
+      "title": "Avan Plaza",
+      "price": 20824,
+      "rating": 0,
+      "url": "/Hotel_Review-g293932-d10205943-Reviews-Avan_Plaza-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/a8/39/03/ossanna-hotel.jpg",
+      "title": "Ossanna Hotel",
+      "price": 14992,
+      "rating": 5,
+      "url": "/Hotel_Review-g293932-d10053016-Reviews-Ossanna_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/c2/12/f2/town-palace-hotel.jpg",
+      "title": "Town Palace Hotel",
+      "price": 0,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d5538637-Reviews-Town_Palace_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/49/ef/81/erebuni-hotel.jpg",
+      "title": "Erebuni Hotel",
+      "price": 0,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d1216356-Reviews-Erebuni_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/01/70/44/5d/near-hotel-mount-ararat.jpg",
+      "title": "Best Eastern Hotel Yerevan",
+      "price": 0,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d308344-Reviews-Best_Eastern_Hotel_Yerevan-Yerevan.html"
+    },
+    {
+      "title": "Hotel Terjan",
+      "price": 0,
+      "rating": 5,
+      "url": "/Hotel_Review-g293932-d308342-Reviews-Hotel_Terjan-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/01/b2/69/63/yerevan-at-your-feet.jpg",
+      "title": "Best Eastern Arma Hotel",
+      "price": 0,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d308333-Reviews-Best_Eastern_Arma_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/60/8d/8e/mirage-hotel.jpg",
+      "title": "Mirage Hotel",
+      "price": 0,
+      "rating": 4.5,
+      "url": "/Hotel_Review-g293932-d8337431-Reviews-Mirage_Hotel-Yerevan.html"
+    },
+    {
+      "title": "Sva Hotel",
+      "price": 0,
+      "rating": 4,
+      "url": "/Hotel_Review-g293932-d5983834-Reviews-Sva_Hotel-Yerevan.html"
+    },
+    {
+      "title": "Caravan Hotel",
+      "price": 0,
+      "rating": 0,
+      "url": "/Hotel_Review-g293932-d12072039-Reviews-Caravan_Hotel-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/b2/25/06/getlstd-property-photo.jpg",
+      "title": "City Centre Apartments",
+      "price": 0,
+      "rating": 0,
+      "url": "/Hotel_Review-g293932-d12594723-Reviews-City_Centre_Apartments-Yerevan.html"
+    },
+    {
+      "title": "Technical Center-Academy",
+      "price": 0,
+      "rating": 0,
+      "url": "/Hotel_Review-g293932-d2442927-Reviews-Technical_Center_Academy-Yerevan.html"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/f1/d8/e3/inncity-hotel-by-picnic.jpg",
+      "title": "InnCity Hotel by Picnic",
+      "price": 0,
+      "rating": 0,
+      "url": "/Hotel_Review-g293932-d12224916-Reviews-InnCity_Hotel_by_Picnic-Yerevan.html"
+    }
+  ]
+}
