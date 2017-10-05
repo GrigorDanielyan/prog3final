@@ -1,3 +1,5 @@
+//github:https://github.com/GrigorDanielyan/prog3final
+//heroku:https://proging3.herokuapp.com/
 google.charts.load('45', { packages: ['corechart', 'table', 'geochart'] });
 
 google.charts.setOnLoadCallback(BubbleChart);
@@ -22,10 +24,9 @@ function BubbleChart() {
             }
 
             var options = {
-                title: 'Correlation between life expectancy, fertility rate ' +
-                       'and population of some world countries (2010)',
-                hAxis: {title: 'Life Expectancy'},
-                vAxis: {title: 'Fertility Rate'},
+                title: 'Hotels',
+                hAxis: {title: 'Price'},
+                vAxis: {title: 'Rating'},
                 bubble: {textStyle: {fontSize: 7.5}}
               };
 
@@ -50,11 +51,11 @@ function Histogram() {
             }
 
             var options = {
-                title: 'works',
+                title: 'Hotels',
                 colors: ['orange'],
                 legend: { position: 'none' },
-                hAxis: { title: 'work in salary' },
-                vAxis: { minValue: 0, title: 'work in count' },
+                hAxis: { title: 'Stars count' },
+                vAxis: { minValue: 0, title: 'Count' },
                 histogram: {
                     bucketSize: 0.5,
                     maxNumBuckets: 15
